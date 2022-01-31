@@ -1,0 +1,288 @@
+[[lapackpp]]
+arch = "aarch64"
+git-tree-sha1 = "71d068b03c7f535ee362c71b001a88ee49e78a49"
+os = "macos"
+
+    [[lapackpp.download]]
+    sha256 = "b384e62170914c455377196a5dbbd6d15986b78c2a928d9ba30d30a5b0fa07de"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.aarch64-apple-darwin.tar.gz"
+[[lapackpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db3ebf3cd51cac9bea5ca9599f31b5e0c9e1d5dd"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "cb0bb730760f9f389c9d97596068d40d1a4e90d08f691b7e22bd8d82fa386bbc"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[lapackpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a44a9f2c6d2d9ea19f9af2a178cf25e167e3caf4"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "e9a523efb4efc803db58084bba85fe72c019ef07de8127818618fdc6cee33337"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[lapackpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "075fbaa3cce6b1ce1ca3a522c10b312e8bd33355"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "d2e3bd11a9f5d221a5813488c3eab8477e6c09d2f9e62603b355b0db896b701e"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.aarch64-linux-musl-cxx03.tar.gz"
+[[lapackpp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36e0eef6ae5cd35ba37d09f5b35bd69e1133d91c"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "f3c2c155b045e44f0e2ca954b5917baebe9323a9e10b4cdf6a5f9c04f461a692"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.aarch64-linux-musl-cxx11.tar.gz"
+[[lapackpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c52791664d64b01beb04f4afa2a6fc3ba254637"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "28d4d8a3d4c664fb490bae26bd572e700f8de3e50e06d7005747b8360b527eab"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[lapackpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a6fce46eb390d68e17faed47b9a7493654bcb7c0"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "72912c8e3697aaec756e5ac6a97a3a60f65bbfb59f8de6a6913ecc96728b6974"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[lapackpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d70f7d65b605211f0b727bf5471c272ea136bb8b"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "2c516b1a02808b31c6efb6a2f79774337a6174118690e761a9e71bf07806e1f6"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[lapackpp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b856fee820010f00e32558274d014e04abf8742"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "01036bcfc8f56a8d5a7cb814252b73129d3b930d8ed922070d52d28f544845da"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[lapackpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e3492be6039a6082768304dc912092c78350b1c8"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "3fcf7cea0a62b68ff83d3fe9a9810a758cbc4f4cbfff19715e0deb82569bb2d9"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[lapackpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2bc405dda76625b29c8c81adb3a1bbe82341fd6"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "185ee788ff7704e1b86af9d04afe5d186b175b2e26b4d0ab615052bf640f31a2"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[lapackpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cbf1af44063ea0bc53d22ace886e31a50ce61da2"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "c38167a7f90c9167c0ccc5af231329e01b23e3c76e86970a3ac8505d610bd16c"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[lapackpp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c644bafe57673411c800d74a3336eb87447d71c6"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "d9faadbba803c776cb2c9caef4317d5b7315c4f4d12d54db4fcb81c444598669"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5b4c34344b2f2a4714c13980a43a28fa618453f"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "9015dfe4bda26ab9d148c00d788b9b328d7332bf4bd92df4d3adbd26dcc8b5c1"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-linux-gnu-cxx03.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e50a4b5e47ec38c3b731c349a1ab588384fbc3be"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "cd77d01f30f19ccf208d43ef8c546cbe198ce9fb69ad9743d1ec3ee7a7253c30"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-linux-gnu-cxx11.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b3be69941faac2728e712595d006c6d8a14fe3e"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "51f766aff89bceb480b5e78dc07ec1c9d63c9a89acd69974a1bf64de2e017290"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-linux-musl-cxx03.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e1e73b0bda0dcb973fcae7646a2c00c7237a22df"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "1d05926ad718dc9b364149a206771901eee95d013d21984561467ee29a645150"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-linux-musl-cxx11.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "97c3ec82b8e783b944b946a5c4e1d86f8c1acc74"
+os = "windows"
+
+    [[lapackpp.download]]
+    sha256 = "3a5dc47a087e357a4690c50c9fd17593ad242019294f3ac6b91f035709c430ba"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-w64-mingw32-cxx03.tar.gz"
+[[lapackpp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43cdacb4d2373d5561b39391fc7c9d4e32599f93"
+os = "windows"
+
+    [[lapackpp.download]]
+    sha256 = "099ed7554d642b83a020b511a591c88cba1960d563607f17fa8e76f96a72b6b1"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.i686-w64-mingw32-cxx11.tar.gz"
+[[lapackpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85f841b6c5263019fcd96dca2ec58c0a35065fa2"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "983b004db220f661ecb728ccaafe8dfeb2595a4cf70ae91ab577fa11ddef9dc2"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[lapackpp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae8464b2d968004e11fcff7540ed3be98abf08eb"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "d948adbc54d07c5b8ea5a3979276ec21c3ac1e177f956a10ff1563b070124a1c"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+git-tree-sha1 = "37e7331d257faa73a24c2a67494f12aa161a628d"
+os = "macos"
+
+    [[lapackpp.download]]
+    sha256 = "4291bd3dcab34eca183fd2d0c616c8436fcd6837d9e9722a75e7cd48f9ba7e29"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-apple-darwin.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28c7ff294d063c4cd45ca0c1c643461a290e77c7"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "c5571aaa85990677dbe7b83fc5078544b86c6deaf236fc0085cf576e4f953912"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "26ef55f0837b031a48ff39d326adbbc5fc35ad44"
+libc = "glibc"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "f61b921c22d8243831c691d1c2833c0410e6849d751f92a9f15f49f8fb328c00"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c81de3c863ea9115c593f050fea4c6a57acf9cd7"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "3bb2a10103aa8caff7fc3ef7f091549b0b6c270ccbfb39c24eb29b9846defbe1"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-linux-musl-cxx03.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3bf81864bc50750b7c8727fa88e4d3fdba952309"
+libc = "musl"
+os = "linux"
+
+    [[lapackpp.download]]
+    sha256 = "660a072007ab271d3e7e34d6ec250b5f32cc71ef48570386cd017ba6bb7795f0"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-linux-musl-cxx11.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+git-tree-sha1 = "cf4a343da65835b7d1730e10e3d192cefd87d0e5"
+os = "freebsd"
+
+    [[lapackpp.download]]
+    sha256 = "2da0a87c1a82af8b734e0cd437e927f868e61e78e95cf584a0b0e1e2b5b62274"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-unknown-freebsd.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "793e636e365696fb33a119b88170c92d2ababd89"
+os = "windows"
+
+    [[lapackpp.download]]
+    sha256 = "caf9501411019d16a7a11676e3bb19d255b034264b14e7992887f3897970da27"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[lapackpp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b420fbf48b3ed41a38a5a866452be6f943bb610f"
+os = "windows"
+
+    [[lapackpp.download]]
+    sha256 = "39c2a49292ec28dc928e9244b6a929c003b75d8c36e58b3b318fefee3aab0460"
+    url = "https://github.com/JuliaBinaryWrappers/lapackpp_jll.jl/releases/download/lapackpp-v2021.4.0+0/lapackpp.v2021.4.0.x86_64-w64-mingw32-cxx11.tar.gz"

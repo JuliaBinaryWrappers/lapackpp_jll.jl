@@ -1,0 +1,17 @@
+name = "lapackpp_jll"
+uuid = "5dde4c60-e15a-59a1-8194-93aa09eef4ab"
+version = "2021.4.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+blaspp_jll = "ac2d9471-9114-5691-9e37-f48642a6f9ea"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+blaspp_jll = "2021.04.02"
